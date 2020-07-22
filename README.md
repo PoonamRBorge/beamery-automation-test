@@ -9,6 +9,17 @@ The feature file contains:
     (**Note**: This test case can be written to test all the mandatory fields) 
 2. A Scenario which will test a case where the email address is already registered.
 
+**Jars required:**
+cucumber-core
+cucumber-java
+cucumber-junit
+cucumber-jvm-deps
+cucumber-reporting
+gherkin
+testng
+selenium-java
+selenium-server-standalone
+
 **Running the tests:**  
 Please execute the runner TestRunner.java
 
